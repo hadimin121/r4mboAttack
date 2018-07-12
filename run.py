@@ -23,7 +23,7 @@ print
 print "Create  : r4mb0Attack"
 print "Team    : Tengkorak Hacker Team"
 print "github  : https://github.comr4mb0Attack"
-print "Facebook: https://www.facebook.com/hadinurusalam
+print ############ATTACK TARGET GUYS###############
 print
 ip = raw_input("IP TARGET : ")
 port = input("Port       : ")
